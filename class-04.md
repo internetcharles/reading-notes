@@ -22,3 +22,18 @@
 - grids are hell
 - css frameworks help you with common tasks
 - you can import multiple stylesheets
+
+- you can't access variable within functions when you leave them
+    - but functions outside of the function can be accessed (global functions)
+- global variables use more memory because they're in play whenever web page is loaded
+- you can get single and multiple values out of functions
+- parameters are used like variables in the function
+
+- pair programming is effective because:
+    - solutions often are deduced faster with two people
+    - the experience can be more engaging
+    - no fear of asking for help
+    - learning from one another
+    - improves social skills
+    - prepares for interviews
+    - is reflective of how coding works at an actual job

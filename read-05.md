@@ -1,0 +1,11 @@
+- Heroku seems like a great resource
+- The process for deploying to heroku seems pretty simple following the steps listed
+- Working locally and working on the www are two very distinct things, and I understand how heroku aids as a simple way to get apps on the web.
+
+- The Problem Solving Skills article is great, and I need to apply some of the points provided here.
+- Solving the the right problem is important, as I've hacked away at things I thought were issues while coding
+- Using the scientific method as an analogy makes sense
+- Function over purpose
+- Question assumptions
+- Reason through logic
+- Diversify thought

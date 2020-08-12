@@ -1,0 +1,4 @@
+- Structured Query Language
+- A relational database represents a collection of related (two-dimensional) tables. Each of the tables are similar to an Excel spreadsheet, with a fixed number of named columns (the attributes or properties of the table) and any number of rows of data.
+- To retrieve data from a SQL database, we need to write SELECT statements, which are often colloquially refered to as queries. 
+- In order to filter certain results from being returned, we need to use a WHERE clause in the query. The clause is applied to each row of data by checking specific column values to determine whether it should be included in the results or not.

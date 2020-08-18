@@ -1,0 +1,1 @@
+- I watched all the videos. They were very interesting and helpful since I've been looking to improve my CSS. The way he maps out his elements is very useful to see. I wouldn't think there'd be so much you could do with a form but there seems to be a lot. Using "valid" for inputs is something I never knew about.

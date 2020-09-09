@@ -1,0 +1,5 @@
+- PostgreSQL join is used to combine columns from one (self-join) or more tables based on the values of the common columns between related tables.
+- inner join, left join, right join, full outer join, cross join, natural join, self-join
+- a one-to-one relationship is a type of cardinality that refers to the relationship between two entities A and B in which one element of A may only be linked to one element of B, and vice versa
+- a one-to-many relationship is a type of cardinality that refers to the relationship between two entities A and B in which an element of A may be linked to many elements of B, but a member of B is linked to only one element of A
+- a many-to-many relationship is a type of cardinality that refers to the relationship between two entities A and B in which A may contain a parent instance for which there are many children in B and vice versa

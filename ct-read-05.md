@@ -1,0 +1,7 @@
+- HTTP clients are tools capable of sending a request to a server and then receive a response from it.
+- Regular Expressions aren't as flexible and quite a lot of people both professionals and amateurs struggle with writing the correct regular expression.
+- JSDOM is a pure Javascript implementation of the Document Object Model to be used in NodeJS
+- Puppeteer, as the name implies, allows you to manipulate the browser programmatically just like how a puppet would be manipulated by its puppeteer. 
+- Cheerio abstracts the best out of JQuery for the sole purpose of running it in the server-side for web crawling but does not execute Javascript code.
+- The Document method querySelector() returns the first Element within the document that matches the specified selector, or group of selectors. If no matches are found, null is returned.
+- The Document method querySelectorAll() returns a static (not live) NodeList representing a list of the document's elements that match the specified group of selectors.

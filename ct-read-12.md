@@ -1,0 +1,9 @@
+- a plain text password makes use of only letters
+- a one-way hash password has a hashing algorithm applied to it to make it more secure
+    -  hackers have found ways around this system as the algorithm used is not exactly a one-way option at all
+- a ‘salt’ adds a very long string of bytes to the password
+    - if a hacker has access to your source code, they will easily be able to find the ‘salt’ string for passwords
+- BCrypt is based on the Blowfish block cipher cryptomatic algorithm and takes the form of an adaptive hash function
+- Using a Key Factor, BCrypt is able to adjust the cost of hashing
+- bcrypt was designed for password hashing hence it is a slow algorithm. 
+- this is good for password hashing as it reduces the number of passwords by second an attacker could hash when crafting a dictionary attack

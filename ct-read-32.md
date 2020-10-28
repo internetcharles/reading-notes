@@ -1,0 +1,4 @@
+- Context provides a way to pass data through the component tree without having to pass props down manually at every level.
+- Context provides a way to pass data through the component tree without having to pass props down manually at every level.
+- If you only want to avoid passing some props through many levels, component composition is often a simpler solution than context.
+- The contextType property on a class can be assigned a Context object created by React.createContext(). This lets you consume the nearest current value of that Context type using this.context.
